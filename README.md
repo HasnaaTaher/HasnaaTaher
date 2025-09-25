@@ -1,8 +1,8 @@
 <div align="center">
 
+# 👩‍💻 I'm Hasnaa Taher, Welcome to my GitHub!  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-# 👩‍💻 I'm Hasnaa Taher, Welcome to my GitHub!  
 🎓 Faculty of Computers & Artificial Intelligence  
 💡 Passionate about Problem Solving & Competitive Programming  
 🚀 Exploring **C++ (OOP)** | Basics of **Python** | Basics of **Networking**  
