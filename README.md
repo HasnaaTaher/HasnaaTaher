@@ -1,36 +1,39 @@
-<div align="center">
+# Welcome to my GitHub! I'm Hasnaa Taher  
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-# 👩‍💻 Hi, I'm Hasnaa Taher  
-🎓 Faculty of Computers & Artificial Intelligence  
-💡 Passionate about Problem Solving & Competitive Programming  
-🚀 Exploring **C++ (OOP)** | Basics of **Python** | Basics of **Networking**  
-🏅 Participated in **ICPC**  
-
-</div>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>  
 
 ---
 
-## ⚡ Tools & Technologies
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat)
-
----
-
-## 🌐 Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnaa-taher-1a9353369/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563562050746)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thasnaa20@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hasnaataher)  
+## 👩‍💻 About Me  
+- 🎓 Computer Science Student  
+- 💡 Interested in **C++**, **OOP**, and **Problem Solving**  
+- 🚀 Currently learning **Data Structures**, **Algorithms**, and **AI basics**  
+- 🌱 Always looking to improve my coding skills and work on exciting projects  
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+## 🔗 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/hasnaa-taher-1a9353369/)  
+- [Facebook](https://www.facebook.com/profile.php?id=61563562050746)  
+- [Telegram](https://t.me/hasnaataher)  
+- 📧 Email: **thasnaa20@gmail.com**  
 
-<img src="https://github-readme-stats.vercel.app/api?username=HasnaaTah
+---
+
+## 🛠️ Languages & Tools  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 📌 Projects  
+
+### 🔐 C++ Project: Caesar Cipher  
+A simple implementation of the **Caesar Cipher** encryption & decryption using **C++ and OOP**.  
+
+#### 🚀 How to Run  
+```bash
+g++ main.cpp -o caesar
+./caesar
